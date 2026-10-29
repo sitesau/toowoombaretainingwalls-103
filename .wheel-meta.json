@@ -1,0 +1,22 @@
+{
+  "wheel_id": 499,
+  "structure": "umbrella",
+  "slug": "toowoombaretainingwalls-103",
+  "project": "retaining-wall-builders-toowoomba-common-mistakes-ef5ef975291ba",
+  "parent_t1_ref": "toowoombaretainingwalls-151",
+  "node_role": "feeder",
+  "money_target": "toowoombaretainingwalls.com.au",
+  "primary_kw": "retaining wall builders toowoomba common mistakes",
+  "intended_url": "https://aumedia.neocities.org/retaining-wall-builders-toowoomba-common-mistakes-ef5ef975291ba/",
+  "tier": "T2",
+  "writeback_nonce": "c726ebec40b9552f",
+  "links": [
+    {
+      "target_url": "http://retaining-wall-builders-toowoomba-08e3e01dfff775bad2a8ef72c039c.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "the related resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
